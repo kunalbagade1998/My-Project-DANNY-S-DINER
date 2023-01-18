@@ -12,12 +12,12 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
  # **:file_folder: DATASETS**
  Danny has shared with you 3 key datasets for this case study:
-   ### **1. orders**
+   ### **1. ORDERS**
 
  <details><summary>
  View Table
  </summary>
-The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+The orders table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
 
  | customer_id  | order_date | product_id |
  | -----------  | ---------- | ---------- |
