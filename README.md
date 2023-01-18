@@ -12,7 +12,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
  # **:file_folder: DATASETS**
  Danny has shared with you 3 key datasets for this case study:
-   ### **1. SALES**
+   ### **1. orders**
 
  <details><summary>
  View Table
